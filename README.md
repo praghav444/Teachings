@@ -5,7 +5,7 @@
 | **Instructor** | Pushpendra Raghav |
 | **Email** | ppushpendra@ua.edu; praghav444@gmail.com |
 | **Department** | Civil, Construction, and Environmental Engineering |
-| **University** | The University of Alabama |
+| **University** | The, University of Alabama |
 | **Web** | [praghav444.github.io](https://praghav444.github.io/) |
 
 ## Courses
